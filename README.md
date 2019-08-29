@@ -41,12 +41,15 @@ Table of Content
 
 # Blockchain Explorers
 
+- [Tezos.ID](https://tezos.id/)
+- [Better Call Dev](https://better-call.dev/)
+- [Arronax Beta](https://arronax-beta.cryptonomic.tech/)
 - [TzScan](https://tzscan.io/)
 - [TezEx](http://tezex.info/)
 
 # Infrastructure
 
-## Signing
+## Baking
 
 - [Tezos HSM Signer](https://gitlab.com/polychainlabs/tezos-hsm-signer)
 - [Azure Tezos Signer](https://github.com/tezzigator/azure-tezos-signer)
@@ -60,7 +63,7 @@ Table of Content
 
 ## Official Guides
 - [Official Tezos Get Started Guide](https://tezos.com/get-started/)
-- [Official Tezos Developers Guide](https://developers.tezos.com/)
+- [Official Tezos Developers Guide](https://developers.tezos.com/) - Learn how to write smart contracts, use various SDK's, and explore the blockchain
 
 ## Tutorials
 - [Raspberry Pi Tezos Setup](https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5Bb%5D-Notes-to-setup-a-RPI3-with-Fedora-OS-%28aarch64-armv8%29-to-run-Tezos-starting-from-the-plain-OS-%28revised-07-04-19%29)
