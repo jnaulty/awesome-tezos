@@ -19,12 +19,13 @@ Table of Content
 # Wallets
 
 ## Hardware
-- [Ledger Nano X](https://shop.ledger.com/products/ledger-nano-x)
+- [Ledger App](https://www.ledger.com/tezos-wallet/)
 
 ## Desktop
 - [TezzerWallet](https://github.com/Tezzerwallet)
 - [BakeChain](https://bakechain.github.io/#home)
 - [Airgap](https://airgap.it/)
+- [Galleon](https://galleon-wallet.tech/)
 
 ## Web
 - [TezBox](https://tezbox.com/) (Desktop Too)
