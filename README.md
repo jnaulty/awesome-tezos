@@ -74,6 +74,7 @@ Table of Content
 
 ## Courses
 - [Tezos Blockstars](https://tezos.b9lab.com/)
+- [Tezos Capstone](https://tezoscapstone.com/curriculum/index.html)
 
 ## Other Resources
 
