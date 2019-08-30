@@ -72,6 +72,9 @@ Table of Content
 - [How to Delegate with Tezos](https://blog.polychainlabs.com/tezos/2019/06/03/delegating-tezos.html)
 - [How to Buy Tezos](https://wheretobuytezos.com/how-to-buy-tezos-xtz)
 
+## Courses
+- [Tezos Blockstars](https://tezos.b9lab.com/)
+
 ## Other Resources
 
 - [Tezos Stackexchange](https://tezos.stackexchange.com/questions)
