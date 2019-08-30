@@ -50,11 +50,19 @@ Table of Content
 
 # Infrastructure
 
+## Client Libraries
+- Golang - [Go Tezos](https://github.com/DefinitelyNotAGoat/go-tezos)
+- Javascripts - [eztz](https://github.com/TezTech/eztz)
+
+## Smart Contracts
+- [LIGO](https://ligolang.org)
+
 ## Baking
 
 - [Tezos HSM Signer](https://gitlab.com/polychainlabs/tezos-hsm-signer)
 - [Azure Tezos Signer](https://github.com/tezzigator/azure-tezos-signer)
 - [signatory](https://github.com/ecadlabs/signatory)
+- [Payman](https://github.com/DefinitelyNotAGoat/payman)
 
 ## Monitoring
 
