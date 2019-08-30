@@ -51,8 +51,8 @@ Table of Content
 # Infrastructure
 
 ## Client Libraries
-- [Go Tezos](https://github.com/DefinitelyNotAGoat/go-tezos)
-- [eztz] https://github.com/TezTech/eztz
+- [Golang][Go Tezos](https://github.com/DefinitelyNotAGoat/go-tezos)
+- [Javascript][eztz] (https://github.com/TezTech/eztz)
 
 ## Smart Contracts
 - [LIGO](https://ligolang.org)
