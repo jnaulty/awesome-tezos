@@ -1,6 +1,6 @@
 Awesome Tezos
 ===============
-A curated list of tezos services and tools for software developers
+A curated list of Tezos services and tools for software developers
 
 Table of Content
 
@@ -11,6 +11,8 @@ Table of Content
 - [Infrastructure](#infrastructure)
 - [Smart Contracts](#smart-contracts)
 - [Learning](#learning)
+- [Communication](#communication)
+- [Media](#media)
 
 
 # Source Code
@@ -79,6 +81,13 @@ Table of Content
 - [Official Tezos Get Started Guide](https://tezos.com/get-started/)
 - [Official Tezos Developers Guide](https://developers.tezos.com/) - Learn how to write smart contracts, use various SDK's, and explore the blockchain
 
+## Unofficial but kind-of-official
+
+Not _official_ tezos.com resources, but they come from high-quality sources in the Tezos Community.
+
+- [Tezos Agora Learn](https://www.tezosagora.org/learn)
+- [Toqueville Group Tezos Learn](https://learn.tqtezos.com/)
+
 ## Tutorials
 - [Raspberry Pi Tezos Setup](https://github.com/maxtez-raspbaker/tezos-rpi3/wiki/%5Bb%5D-Notes-to-setup-a-RPI3-with-Fedora-OS-%28aarch64-armv8%29-to-run-Tezos-starting-from-the-plain-OS-%28revised-07-04-19%29)
 - [How to Write a Tezos Protocol](https://blog.nomadic-labs.com/how-to-write-a-tezos-protocol.html)
@@ -92,3 +101,24 @@ Table of Content
 ## Other Resources
 
 - [Tezos Stackexchange](https://tezos.stackexchange.com/questions)
+
+# Communication
+
+## Forums
+
+- [Tezos Agora Forum](https://forum.tezosagora.org/) - Tezos Agora is a place to discuss and learn about the long-term direction of the Tezos project.
+
+## Events
+
+- [Tezos Foundation Events Page](https://tezos.foundation/events)
+
+# Media
+
+## Videos
+
+- [Tez Talks](https://www.teztalks.com/)
+- [Tezos Commons | Youtube](https://www.youtube.com/channel/UCkndRzU4YFfdfARaA_XTW9A) 
+
+## Podcats
+
+- [Tezonomics](https://soundcloud.com/tezonomics)
